@@ -86,6 +86,8 @@ graph TB
     Claude --> BedrockKB
 ```
 
+Amazon Bedrock is used to ensure model-agnostic design, enterprise-grade security, and seamless integration with AWS-native services. This allows DufferAI to focus on pedagogy and onboarding logic rather than model orchestration.
+
 ### Security Architecture
 
 ```mermaid
