@@ -8,6 +8,16 @@ The platform addresses the critical business problem where junior developers req
 
 The initial MVP focuses on core onboarding flows for a single repository and a limited set of domains (auth, API, data models) to ensure feasibility and rapid time-to-market.
 
+## Non-Goals (MVP Scope)
+
+To ensure rapid prototyping and feasibility during the hackathon, the initial MVP intentionally excludes:
+- Multi-repository onboarding
+- Live code editing or PR generation
+- Deep runtime debugging or execution tracing
+- Full IDE plugins beyond Kiro spec integration
+
+These are planned for future iterations.
+
 ## Architecture
 
 ### High-Level Architecture
