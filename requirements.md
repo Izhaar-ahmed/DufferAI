@@ -1,3 +1,5 @@
+> This document defines high-level functional requirements for the DufferAI MVP, focused on single-repository onboarding and core learning workflows. Detailed implementation is intentionally out of scope for idea evaluation.
+
 # Requirements Document
 
 ## Introduction
